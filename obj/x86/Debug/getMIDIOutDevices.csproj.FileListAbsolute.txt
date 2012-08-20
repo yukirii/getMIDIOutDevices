@@ -1,0 +1,7 @@
+c:\users\shiftky\documents\visual studio 2010\Projects\getMIDIOutDevices\getMIDIOutDevices\bin\Debug\getMIDIOutDevices.exe
+c:\users\shiftky\documents\visual studio 2010\Projects\getMIDIOutDevices\getMIDIOutDevices\bin\Debug\getMIDIOutDevices.pdb
+c:\users\shiftky\documents\visual studio 2010\Projects\getMIDIOutDevices\getMIDIOutDevices\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\shiftky\documents\visual studio 2010\Projects\getMIDIOutDevices\getMIDIOutDevices\obj\x86\Debug\getMIDIOutDevices.exe
+c:\users\shiftky\documents\visual studio 2010\Projects\getMIDIOutDevices\getMIDIOutDevices\obj\x86\Debug\getMIDIOutDevices.pdb
+c:\users\shiftky\documents\visual studio 2010\Projects\getMIDIOutDevices\getMIDIOutDevices\bin\Debug\Midi.dll
+c:\users\shiftky\documents\visual studio 2010\Projects\getMIDIOutDevices\getMIDIOutDevices\bin\Debug\Midi.xml
